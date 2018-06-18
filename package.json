@@ -1,0 +1,43 @@
+{
+    "title": "Hugo Almeida Page",
+    "name": "hugo-almeida",
+    "version": "4.1.1",
+    "description": "This is my personal page, contaim a resume for my experience, skills and projects of clients and opensorce.",
+    "keywords": [
+        "Java","Spring Framework", " Resteasy ", "vraptor", "JSF", "JSF PrimeFaces",
+        "Python", "Django",
+        "Node", "Javascript", "Express", "Mongo",
+        "Ruby", "Sinatra",
+        "C++", "C#", "WebApi2",
+        "AngularJS", "ReactJS", "VueJS", "HTML", "CSS"
+    ],
+    "homepage": "https://hhalmeida.github.io",
+    "bugs": {
+        "url": "https://github.com/hhalmeida/hhalmeida.github.io/issues",
+        "email": "hhalmeida3@gmail.com.com"
+    },
+    "license": "MIT",
+    "author": "Hugo Almeida",
+    "contributors": [
+
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hhalmeida/hhalmeida.github.io.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "devicons": "^1.8.0",
+        "jquery": "3.3.1",
+        "simple-line-icons": "^2.4.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.24.3",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "3.9.4",
+        "gulp-header": "2.0.5",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "4.0.1",
+        "gulp-uglify": "3.0.0"
+    }
+}
